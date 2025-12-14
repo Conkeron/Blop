@@ -1,0 +1,2 @@
+name: "Test level"
+description: "This is a test level that should not appear in the actual game, it is only meant to be used for testing purposes."

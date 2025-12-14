@@ -1,17 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 <!-- Project -->
-  <PropertyGroup Label="project">
+	<PropertyGroup Label="project">
 		<OutputType>Exe</OutputType>
-    <TargetFramework>net10.0</TargetFramework>
+		<TargetFramework>net10.0</TargetFramework>
 		<LangVersion>14</LangVersion>
-    <Nullable>enable</Nullable>
+		<Nullable>enable</Nullable>
 
 		<AssemblyName>Blop</AssemblyName>
 		<RootNamespace>Conkeron.Blop</RootNamespace>
 
 		<EnableNETAnalyzers>true</EnableNETAnalyzers>
 		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
-  </PropertyGroup>
+	</PropertyGroup>
 
 </Project>
