@@ -25,4 +25,4 @@ and because of this blop was born, because blop is *both* a game, and a blog
 about the game *(itself)*, and how it was created.
 
 You can try it out over at
-[conkeron.github.io/blop](https://conkeron.github.io/blop).
+[conkeron.github.io/Blop](https://conkeron.github.io/Blop).
