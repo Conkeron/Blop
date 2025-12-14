@@ -40,3 +40,4 @@ bld/
 
 # Project locals
 /src/local/
+/output/
