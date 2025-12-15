@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		<!-- General metadata -->
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="theme-color" content="#858316">
+		<meta property="og:type" content="website">
+
+		<!-- Page title -->
+		<title>${game-title}</title>
+		<meta property="og:title" content="${game-title}">
+		<meta name="twitter:title" content="${game-title}">
+		<meta itemprop="name" content="${game-title}">
+		<meta name="apple-mobile-web-app-title" content="${game-title}">
+
+		<!-- Page description -->
+		<meta name="description" content="${game-description}">
+		<meta property="og:description" content="${game-description}">
+		<meta name="twitter:description" content="${game-description}">
+		<meta itemprop="description" content="${game-description}">
+		<meta name="description" itemprop="description" content="${game-description}">
+
+		<!-- Stylesheets -->
+		<style>${system-style}</style>
+		<script id="game-data" type="application/json">${game-data}</script>
+		<script type="application/javascript">${system-engine}</script>
+		<script type="application/javascript">window.onload = () => {window.blop = new Blop();}</script>
+	</head>
+
+	<body>
+		<header></header>
+		<main></main>
+		<aside></aside>
+		<footer></footer>
+	</body>
+</html>
